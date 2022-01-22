@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenfoli
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Blockchain Development & Computer Programming in Genaral
-- 💞️ I’m looking to collaborate on Blockchain Development
+- 💞️ I’m looking to collaborate on a Blockchain Development Idea I have.
 - 📫 How to reach me: Whatsapp +233558703940
 
 <!---
